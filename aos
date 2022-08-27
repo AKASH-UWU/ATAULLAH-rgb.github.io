@@ -1,0 +1,9 @@
+data-aos="fade-up"
+     data-aos-duration="8000"
+
+
+
+
+     AOS.init({
+once: true,
+});
