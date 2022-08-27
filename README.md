@@ -1,1 +1,0 @@
-# ATAULLAH-rgb.github.io
