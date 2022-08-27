@@ -47,12 +47,7 @@
 <script type="text/javascript">
 
 
-var host = "http://akashbro.me/"
-
-if (window.location.host == host && window.location.protocol != "https:") {
-  window.location.protocol = "https:"
-}
-
+if (window.location.href.match("http://akashbro.me")) window.location.protocol='https:'
 </script>
 
 
